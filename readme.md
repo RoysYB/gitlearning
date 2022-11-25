@@ -45,5 +45,6 @@ login  in github
                 git config --global user.email "your email "   
                 
                 
-pulling from a repository
-
+pulling from a repository   (you can only push  new data if all the changes made are already in your local repository)
+             
+             git pull origin master
