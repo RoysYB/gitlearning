@@ -20,4 +20,4 @@ once after first commit changes are made if we check the status of the  file the
                             git add readme.md         
                              !!!!OR!!!!!
                             git add .         #this basically  adds every changes made in the repository
- 
+ before there is  branches that i created so inorder to merge  
