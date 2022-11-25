@@ -1,5 +1,19 @@
 #HI
 #welcome to a short tutorial
+# basic order to be executed
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RoysYB/python-game.git
+git push -u origin main
+
+
+
+
+
+
+
 
 first we initialize a folder creating a git file
 using 
@@ -28,9 +42,6 @@ once after first commit changes are made if we check the status of the  file the
                           #this basically  adds every changes made in the repository
 <<<<<<< HEAD
 
-create a master branch    or main branch 
-                           
-                            git  branch -M main
 
  creating branches for not messing up the master branch
 
@@ -45,6 +56,10 @@ create a master branch    or main branch
 
 now connecting our local with the cloud repo   we use 
                 git add new origin https://github.com/RoysYB/gitlearning.git
+
+create a master branch    or main branch 
+                           
+                            git  branch -M main
 
 now we push our code to the repo (origin : specify which branch,  -u tells to store these settings ie  to store this in the  master branch   so after first time we only need to type   git push and it will be pushed into  master automatically     )
                   
