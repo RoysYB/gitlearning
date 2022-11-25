@@ -1,12 +1,13 @@
 #HI
 #welcome to a short tutorial
 # basic order to be executed
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/RoysYB/python-game.git
-git push -u origin main
+
+            git init
+            git add README.md
+            git commit -m "first commit"
+            git branch -M main
+            git remote add origin https://github.com/RoysYB/python-game.git
+            git push -u origin main
 
 
 
