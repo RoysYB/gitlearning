@@ -35,4 +35,8 @@ once after first commit changes are made if we check the status of the  file the
 now connecting our local with the cloud repo   we use 
                 git add new origin https://github.com/RoysYB/gitlearning.git
 
-now we push our code to the repo 
+now we push our code to the repo (origin : specify which branch,  -u tells to store these settings ie  to store this in the  master branch   so after first time we only need to type   git push and it will be pushed into  master automatically     )
+                  
+                              git push -u origin master                                        
+
+                              
