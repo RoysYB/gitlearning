@@ -18,10 +18,20 @@ we can commit by  (where -m is a message)
                            git commit -m "added readme.md"
 
 once after first commit changes are made if we check the status of the  file there the maded changes will be shown    so we need to add the folder again to make it commitable
-                            git add readme.md         
-                             !!!!OR!!!!!
-                            git add .         #this basically  adds every changes made in the repository
+                          
+                          git add readme.md         
+                          
+                          !!!!OR!!!!!
+                          
+                          git add .
+                          
+                          #this basically  adds every changes made in the repository
 <<<<<<< HEAD
+
+create a master branch    or main branch 
+                           
+                            git  -M branch main
+
  creating branches for not messing up the master branch
 
                              git checkout -b newbranch
