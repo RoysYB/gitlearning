@@ -40,6 +40,6 @@ now we push our code to the repo (origin : specify which branch,  -u tells to st
                               git push -u origin master                                        
 
 login  in github
-                git config --global user.name "your name"
-                git config --global user.email "your email "
-                
+             
+             git config --global user.name "your name"
+                git config --global user.email "your email "   
