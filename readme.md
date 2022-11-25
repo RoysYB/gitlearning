@@ -20,6 +20,10 @@ once after first commit changes are made if we check the status of the  file the
                             git add readme.md         
                              !!!!OR!!!!!
                             git add .         #this basically  adds every changes made in the repository
+<<<<<<< HEAD
  creating branches for not messing up the master branch
 
                              git checkout -b newbranch
+=======
+ before there is  branches that i created so inorder to merge  
+>>>>>>> master
