@@ -1,8 +1,9 @@
 #HI
-
+#welcome to a short tutorial
 
 first we initialize a folder creating a git file
-using
+using 
+
                            git init
 
 we can add  file s    for to be added into next commit via
