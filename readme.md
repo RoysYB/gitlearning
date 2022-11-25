@@ -30,7 +30,7 @@ once after first commit changes are made if we check the status of the  file the
 
 create a master branch    or main branch 
                            
-                            git  -M branch main
+                            git  branch -M main
 
  creating branches for not messing up the master branch
 
