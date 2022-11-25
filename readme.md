@@ -27,3 +27,6 @@ once after first commit changes are made if we check the status of the  file the
 =======
  before there is  branches that i created so inorder to merge  
 >>>>>>> master
+                 to merge we use 
+
+                 git merge  master           #it can be master or  any branch 
