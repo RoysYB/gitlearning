@@ -29,4 +29,10 @@ once after first commit changes are made if we check the status of the  file the
 >>>>>>> master
                  to merge we use 
 
-                 git merge  master           #it can be master or  any branch 
+                 git merge  master           #it can be master or  any branch
+
+
+now connecting our local with the cloud repo   we use 
+                git add new origin https://github.com/RoysYB/gitlearning.git
+
+now we push our code to the repo 
