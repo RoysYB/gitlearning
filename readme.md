@@ -48,3 +48,6 @@ login  in github
 pulling from a repository   (you can only push  new data if all the changes made are already in your local repository)
              
              git pull origin master
+
+there is a chance of  merge conflict   
+ie when you change same thing  in local and  remote repo   suppose added "hi" then  there will be merging problem while pulling 
